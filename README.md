@@ -19,7 +19,7 @@ I'm a student based in Germany. I have a passion for Low-level Development & lin
 ### Languages
 - <img height=50 src="https://github.com/bkdevel/bkdevel/blob/main/asm_github.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">" <img height=50 src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png">
 
-### Frameworks > *** true programmers do not use frameworks ***
+### Frameworks > ** true programmers do not use frameworks **
 
 <!-- - **Databases:** -->
 
