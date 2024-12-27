@@ -29,7 +29,7 @@ I'm a student based in Germany. I have a passion for Low-level Development & lin
 
 ## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=bkdevel&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bkdevel&show_icons=true&theme=radical)
 
 
 <!--## 🌟 Featured Projects
