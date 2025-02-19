@@ -11,7 +11,7 @@ I'm a student based in Germany. I have a passion for Low-level Development & lin
 
 - 🔭 I’m currently working on stultOS(currently private)
 - 🌱 I’m currently learning ARM-assembly
-- ⚡ i use arch btw
+- ⚡ i daily drive FreeBSD
 
 
 ## 🛠️ Technologies & Tools
