@@ -9,9 +9,9 @@ Hi there, I'm bkdevel 👋
 I'm a student based in Germany. I have a passion for Low-level Development & linux cli develpment on Unix-like Systems. 
 
 
-- 🔭 I’m currently working on stultOS(currently private)
+- 🔭 I’m currently working on stultDOs
 - 🌱 I’m currently learning ARM-assembly
-- ⚡ i daily drive FreeBSD
+- ⚡ i daily drive OpenSUSE Linux
 
 
 ## 🛠️ Technologies & Tools
