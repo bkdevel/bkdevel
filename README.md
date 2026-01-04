@@ -17,7 +17,7 @@ I'm a student based in Germany. I have a passion for Low-level Development & lin
 ## 🛠️ Technologies & Tools
 
 ### Languages
-<img height=50 src="https://github.com/bkdevel/bkdevel/blob/main/asm_github.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">
+<img height=50 src="https://github.com/bkdevel/bkdevel/blob/main/asm_github.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> and C++
 
 ### Frameworks 
 > **true programmrs don't use frameworks**
