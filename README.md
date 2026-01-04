@@ -6,12 +6,12 @@ Hi there, I'm bkdevel 👋
 
 ## 👨‍💻 About Me
 
-I'm a student based in Germany. I have a passion for Low-level Development & linux cli develpment on Unix-like Systems. 
+I'm a student based in Germany. I have a passion for Low-level Development & develpment on Unix-like Systems. 
 
 
-- 🔭 I’m currently working on stultDOs
-- 🌱 I’m currently learning ARM-assembly
-- ⚡ i daily drive OpenSUSE Linux
+- 🔭 I’m currently working on stult[insert here]
+- 🌱 I’m currently learning about bootloaders
+- ⚡ i daily drive OpenSUSE Linux & FreeBSD
 
 
 ## 🛠️ Technologies & Tools
