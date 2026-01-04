@@ -6,7 +6,7 @@ Hi there, I'm bkdevel 👋
 
 ## 👨‍💻 About Me
 
-I'm a student based in Germany. I have a passion for Low-level Development & develpment on Unix-like Systems. 
+I'm a student based in Germany. I have a passion for Low-level Development & develpment for Unix-like Systems. 
 
 
 - 🔭 I’m currently working on stult[insert here]
@@ -25,7 +25,7 @@ I'm a student based in Germany. I have a passion for Low-level Development & dev
 <!-- - **Databases:** -->
 
 ### Tools 
-<img height=50 src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> <img height=50 src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa">
+<img height=50 src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> <img height=50 src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> <img height=50 src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa">
 
 
 ## 📈 GitHub Stats
